@@ -16,11 +16,7 @@
 |주차|날짜|문제범위|
 |:---:|:---:|:---:|
 |1|2023-09-30|프로그래머스 lv0(
-[문자열 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181952?language=java), 
-[a와 b 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181951?language=java), 
-[문자열 반복해서 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181950?language=java), 
-[대소문자 바꿔서 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181949?language=java), 
-[특수문자 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181948?language=java))|
+[문자열 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181952?language=java), [a와 b 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181951?language=java), [문자열 반복해서 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181950?language=java), [대소문자 바꿔서 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181949?language=java), [특수문자 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181948?language=java))|
 
 ## 💡 branch 사용 방법
 - Master branch 사용

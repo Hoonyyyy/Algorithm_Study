@@ -1,4 +1,4 @@
-# learn-swiftAlgorithm
+# learn-Java_Algorithm
 
 ## 💻 참여자
 👨🏻‍💻[hoony](https://github.com/Hoonyyyy)
@@ -24,4 +24,5 @@
 - 시간 상관 없이 해결한 문제 코드 각자 폴더에 push
 
 ## 📁 폴더명 규칙
-- 본인 이름 / week01(첫시작주) / 문제이름  
+- 본인 이름 / 문제이름
+

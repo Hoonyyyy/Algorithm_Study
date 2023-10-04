@@ -3,6 +3,7 @@
 ## 💻 참여자
 👨🏻‍💻[hoony](https://github.com/Hoonyyyy)
 👨🏻‍💻[145mjl](https://github.com/145mjl)
+👨🏻‍💻[CycoTest](https://github.com/CycoTest)
 
 ## ⭐️ Rule
 - 각자가 정해진 범위에서 해결 할 수 있는 알고리즘 문제를 풀기

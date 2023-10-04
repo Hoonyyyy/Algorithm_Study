@@ -14,7 +14,7 @@
 |주차|날짜|문제범위|
 |:---:|:---:|:---:|
 |1|2023-xx-xx|프로그래머스 lv1([수박수박수](https://school.programmers.co.kr/learn/courses/30/lessons/12922?language=swift), [평균구하기](https://school.programmers.co.kr/learn/courses/30/lessons/12944?language=swift), [직사각형 별찍기](https://school.programmers.co.kr/learn/courses/30/lessons/12969?language=swift), [문자열 정수로 변경](https://school.programmers.co.kr/learn/courses/30/lessons/12925?language=swift), [핸드폰번호 변경](https://school.programmers.co.kr/learn/courses/30/lessons/12948))|
-|2|2023-xx-xx|프로그래머스 lv1([수박수박수](https://school.programmers.co.kr/learn/courses/30/lessons/12922?language=swift), [평균구하기](https://school.programmers.co.kr/learn/courses/30/lessons/12944?language=swift), [직사각형 별찍기](https://school.programmers.co.kr/learn/courses/30/lessons/12969?language=swift), [문자열 정수로 변경](https://school.programmers.co.kr/learn/courses/30/lessons/12925?language=swift), [핸드폰번호 변경](https://school.programmers.co.kr/learn/courses/30/lessons/12948))|
+|2|2023-xx-xx|프로그래머스 lv1([x](https://school.programmers.co.kr/learn/courses/30/lessons/12922?language=swift), [x](https://school.programmers.co.kr/learn/courses/30/lessons/12944?language=swift), [x](https://school.programmers.co.kr/learn/courses/30/lessons/12969?language=swift), [x경](https://school.programmers.co.kr/learn/courses/30/lessons/12925?language=swift), [x](https://school.programmers.co.kr/learn/courses/30/lessons/12948))|
 
 ## 💡 branch 사용 방법
 - Master branch 사용

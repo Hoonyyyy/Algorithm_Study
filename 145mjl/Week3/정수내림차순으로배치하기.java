@@ -9,7 +9,7 @@ class Solution {
         }while(n>0L);
         
         for(int i=0;i<count;i++){
-            for(int j=0;j<count-1;j++){
+            for(int j=0;j<count-i-1;j++){
                 if(arr[j]<arr[j+1]){
                     long temp=arr[j];
                     arr[j]=arr[j+1];

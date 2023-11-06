@@ -1,8 +1,10 @@
 import java.util.*;
 
-public class Solution {//효율성 테스트 - 통과 (16.19ms, 112MB)
+public class Solution {
     public int[] solution(int []arr) {
         int[] answer = {};
+
+        // Solution 1
         boolean[] check=new boolean[arr.length];
         int cnt=0;
         cnt++;
@@ -23,6 +25,22 @@ public class Solution {//효율성 테스트 - 통과 (16.19ms, 112MB)
             }
         }
 
+
+        
+        // Solution 2
+        // Stack<Integer> stack=new Stack<>();
+        // stack.push(arr[0]);
+        
+        // for(int i=1;i<arr.length;i++){
+        //     if(arr[i]!=stack.peek()){
+        //         stack.push(arr[i]);
+        //     }
+        // }
+        
+        // answer=new int[stack.size()];
+        // for(int i=stack.size()-1;i>=0;i--){
+        //     answer[i]=stack.pop();
+        // }
         return answer;
     }
 }

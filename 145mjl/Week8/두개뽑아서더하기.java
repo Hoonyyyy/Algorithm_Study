@@ -15,6 +15,7 @@ class Solution {
         answer=Arrays.stream(integerArray)
                     .mapToInt(i->i)
                     .toArray();
+        Arrays.sort(answer);
         
         return answer;
     }

@@ -18,7 +18,7 @@ class Solution {
     
     public boolean check(int num1,int num2,int num3){
         int num=num1+num2+num3;
-        for(int i=2;i<num/2;i++){
+        for(int i=2;i<=num/2;i++){
             if(num%i==0){
                 return true;
             }
